@@ -1,2 +1,2 @@
 # S71
-Respsitory for S-71, Agile Software Development
+Repository for S-71, Agile Software Development
